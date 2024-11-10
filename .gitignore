@@ -1,0 +1,7 @@
+build
+.vscode
+run
+main.cpp
+notes.cpp
+.DS_Store
+

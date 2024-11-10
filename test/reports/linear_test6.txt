@@ -1,0 +1,14 @@
+
+-------------Testing results--------------
+
+	[Testing time]: 0.001412
+	[Tests amount]: 201
+	[Test avarage time]: 7.024876
+	[Avarage relative deviation]: = 2.55%
+
+----------------Warmup-------------------
+
+	[Warmup time]: 5.000005
+	[Warmup tests amount]: 721845
+
+----------------------------------------
